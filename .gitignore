@@ -1,0 +1,12 @@
+rawdata
+__pycache__
+.ipynb_checkpoints
+output
+*.json
+processed_data*
+*.png
+*.html
+*.log
+*.npy
+*.fif
+*.pdf
